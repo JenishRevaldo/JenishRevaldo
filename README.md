@@ -13,11 +13,6 @@ Passionate about data-informed decision-making to deliver impactful solutions..
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JenishRevaldo&show_icons=true&theme=dark" height="150" alt="languages graph"  />
 </div>
 
-<h3 align="left">Profile Views:</h3>  
-<div align="center">
-  <img src="https://profile-counter.glitch.me/JenishRevaldo_github/count.svg"/>
-</div>
-
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/jenishrevaldo](https://linkedin.com/in/jenishrevaldo)
